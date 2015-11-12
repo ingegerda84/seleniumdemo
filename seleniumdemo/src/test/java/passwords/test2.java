@@ -28,6 +28,7 @@ public class test2 {
 		driver = new FirefoxDriver();
 		driver.get("http://oxogamestudio.com/passwd.current2.htm");
 		driver.manage().window().maximize();
+		
 	}
 
 	@BeforeMethod
