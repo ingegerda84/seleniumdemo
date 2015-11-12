@@ -3,7 +3,11 @@
 <suite name="Functional tests">
   <test verbose="2" name="Calculator test">
     <classes>
-      <class name="passwords.test3"/>
+       <class name="passwords.test2"/>
+       <class name="passwords.test3"/>
+       <class name="passwords.test4"/>
+       <class name="passwords.test5"/>
+       <class name="passwords.test6"/>
     </classes>
   </test> 
 </suite> 
